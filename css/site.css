@@ -28,11 +28,12 @@ section {
     left: 0;
 }
 
-p {
+.col-md-4 p {
     font-size: 14px;
     color: #666;
     line-height: 1.4;
     margin-bottom: 30px;
+    min-height: 40px
 }
 
 .shadow,
